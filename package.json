@@ -1,0 +1,38 @@
+{
+  "name": "vickyexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "asynquence": "^0.10.0",
+    "asynquence-contrib": "^0.28.0",
+    "azure": "^2.2.1-preview",
+    "azure-storage": "^2.5.0",
+    "csv-parse": "^1.2.4",
+    "csv-parser": "^1.11.0",
+    "download-image": "^1.0.1",
+    "free-google-image-search": "^1.0.0",
+    "g-i-s": "^2.0.0",
+    "google-images": "^2.1.0",
+    "google-search-parser2": "0.0.8",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "image-downloader": "^3.3.0",
+    "ms-rest-azure": "^2.4.1",
+    "node-async-loop": "^1.2.2",
+    "node-google-image-search": "^1.0.3",
+    "node-rest-client": "^3.1.0",
+    "request": "^2.83.0",
+    "simple-xml2json": "^1.2.3",
+    "sync-request": "^4.1.0"
+  },
+  "devDependencies": {
+    "download-image": "^1.0.1"
+  }
+}
